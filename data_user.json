@@ -1,0 +1,10 @@
+{
+    "akun": [
+        {
+            "username": "admin",
+            "password": "admin123",
+            "role": "admin",
+            "saldo": 0
+        }
+    ]
+}

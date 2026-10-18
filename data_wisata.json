@@ -1,0 +1,29 @@
+{
+    "wisata": [
+        {
+            "nama": "Pulau Derawan",
+            "lokasi": "Berau",
+            "harga": 50000
+        },
+        {
+            "nama": "Danau Labuan Cermin",
+            "lokasi": "Berau",
+            "harga": 35000
+        },
+        {
+            "nama": "Desa Budaya Pampang",
+            "lokasi": "Samarinda",
+            "harga": 25000
+        },
+        {
+            "nama": "Maratua",
+            "lokasi": "Berau",
+            "harga": 60000
+        },
+        {
+            "nama": "Beras Basah",
+            "lokasi": "Bontang",
+            "harga": 25000
+        }
+    ]
+}
