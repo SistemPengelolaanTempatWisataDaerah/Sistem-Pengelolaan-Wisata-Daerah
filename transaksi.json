@@ -1,0 +1,50 @@
+[
+    {
+        "username": "azis",
+        "jenis": "TOP UP",
+        "wisata": "-",
+        "jumlah_tiket": 0,
+        "harga_satuan": 0,
+        "total": 200000,
+        "tanggal": "2026-11-02 18:11:09",
+        "status": "BERHASIL",
+        "id": 1,
+        "invoice": "INV-20261102181109-5289"
+    },
+    {
+        "username": "azis",
+        "jenis": "TOP UP",
+        "wisata": "-",
+        "jumlah_tiket": 0,
+        "harga_satuan": 0,
+        "total": 100000,
+        "tanggal": "2026-11-02 18:12:11",
+        "status": "BERHASIL",
+        "id": 2,
+        "invoice": "INV-20261102181211-3654"
+    },
+    {
+        "username": "azis",
+        "jenis": "TOP UP",
+        "wisata": "-",
+        "jumlah_tiket": 0,
+        "harga_satuan": 0,
+        "total": 100000,
+        "tanggal": "2026-11-02 18:28:44",
+        "status": "BERHASIL",
+        "id": 3,
+        "invoice": "INV-20261102182844-9508"
+    },
+    {
+        "username": "azis",
+        "jenis": "TOP UP",
+        "wisata": "-",
+        "jumlah_tiket": 0,
+        "harga_satuan": 0,
+        "total": 100000,
+        "tanggal": "2026-11-02 18:34:39",
+        "status": "BERHASIL",
+        "id": 4,
+        "invoice": "INV-20261102183439-9557"
+    }
+]
