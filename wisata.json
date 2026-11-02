@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nama": "Pulau Kumala",
+        "lokasi": "Tenggarong",
+        "kategori": "Wisata Buatan",
+        "harga": 20000
+    },
+    {
+        "id": 2,
+        "nama": "Museum Mulawarman",
+        "lokasi": "Tenggarong",
+        "kategori": "Wisata Sejarah",
+        "harga": 15000
+    },
+    {
+        "id": 3,
+        "nama": "Bukit Bangkirai",
+        "lokasi": "Samboja",
+        "kategori": "Wisata Alam",
+        "harga": 25000
+    },
+    {
+        "id": 4,
+        "nama": "Desa Budaya Pampang",
+        "lokasi": "Samarinda",
+        "kategori": "Wisata Budaya",
+        "harga": 10000
+    },
+    {
+        "id": 5,
+        "nama": "Masjid Islamic Center",
+        "lokasi": "Samarinda",
+        "kategori": "Wisata Religi",
+        "harga": 0
+    }
+]
