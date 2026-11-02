@@ -76,17 +76,22 @@ Pelanggan memiliki akses untuk:
 ## Output & penjelasan
 
 ### Menu Utama
-1. Tampilan menu utama dan login sebagai admin
+1. Tampilan menu utama dan login sebagai admin.
 
 <img width="666" height="247" alt="WhatsApp Image 2026-11-02 at 20 58 47" src="https://github.com/user-attachments/assets/10171e30-747f-454d-b44e-b5d7685fba0b" />
 
-2. Tampilan menu utama dan registrasi akun 
+2. Tampilan menu utama dan registrasi akun. 
 
 <img width="533" height="275" alt="image" src="https://github.com/user-attachments/assets/bb944d50-4b42-4c72-9fe2-2351592b02ef" />
 
-3. Tampilan menu utama dan login sebagai user
+3. Tampilan menu utama dan login sebagai user (Gagal 3 kali).
 
 <img width="603" height="333" alt="image" src="https://github.com/user-attachments/assets/3a2b63f6-d4d8-4c47-bd37-3001e22c4415" />
+
+4. Tampilan menu utama dan login sebagai user (Berhasil), akan otomatis masuk ke tampilan menu user.
+
+<img width="533" height="210" alt="image" src="https://github.com/user-attachments/assets/441fc6ce-6d1b-4339-a0d4-833eb64d0aae" />
+
 
 ### Menu Admin
 
