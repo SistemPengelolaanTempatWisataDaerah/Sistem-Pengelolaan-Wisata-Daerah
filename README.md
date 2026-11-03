@@ -152,7 +152,7 @@ Pelanggan memiliki akses untuk:
 
 <img width="914" height="723" alt="image" src="https://github.com/user-attachments/assets/a9d96d38-3dd9-4f0f-bdb3-eacedfaa50a4" />
 
-7. LOGOUT (Kembali ke menu utama) 
+7. LOGOUT (Kembali ke menu utama)
 
 
 
