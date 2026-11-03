@@ -37,7 +37,7 @@ Dengan adanya program ini, proses pengelolaan wisata dan transaksi tiket diharap
 
 ### Menu Admin
 
-<img width="2204" height="1760" alt="menu admin jpg" src="https://github.com/user-attachments/assets/763c2f9a-875d-487d-8e88-456e03b5b979" />
+<img width="2203" height="1760" alt="menu admin" src="https://github.com/user-attachments/assets/7f683608-b881-4f0c-a930-23addd399fba" />
 
 ### Menu User
 
